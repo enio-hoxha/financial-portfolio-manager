@@ -1,0 +1,6 @@
+﻿Owner,Name,Ticker,Type,CurrentPrice,Quantity,PurchasePrice
+Enio,Apple Inc,AAPL,Stock,0,15,170.00
+Enio,Tesla Inc,TSLA,Stock,0,20,200.00
+Enio,Bitcoin USD,BTC-USD,Crypto,0,0.5,55000.00
+Enio,SPDR Gold Shares,GLD,ETF,0,12,190.00
+Enio,7-10 Yr Treasury,IEF,Bond,0,50,95.00
